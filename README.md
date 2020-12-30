@@ -1,12 +1,10 @@
 ### Hello there 👋
 
-UX Designer
- - [Clause](http://clause.io/)
- - [Accord Project](https://accordproject.org/)
-
- - 🧗‍♂️ Rock climber
- - 🎮 VR Enthusiast
-
+- UX Designer
+  - [Clause](http://clause.io/)
+  - [Accord Project](https://accordproject.org/)
+- 🧗‍♂️ Rock climber
+- 🎮 VR Enthusiast
 - 🔭 I’m currently working on: A startup idea called Pet People. It's a massage service where massages are inspired by the way people pet cats and dogs. Belly rubs are $100. Snoot boops are $50. Etcetera. The tagline is "Pet People. Where 'pet people' pet people"
 - 🌱 I’m currently learning: Mandarin Chinese 🇨🇳 with my friends at [Excel Mandarin](https://www.excelmandarin.com/)
 - 👯 I’m looking to collaborate on: nonprofit apps and other fun side projects
@@ -16,3 +14,4 @@ UX Designer
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm related to Leonard Nimoy 🖖
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=irmerk)
