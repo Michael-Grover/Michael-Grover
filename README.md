@@ -14,4 +14,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm related to Leonard Nimoy 🖖
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=irmerk)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michael-grover)
