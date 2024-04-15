@@ -12,7 +12,6 @@
 - 🤔 I’m looking for help with: Finding UX Design mentors with 5+ years experience
 - 💬 Ask me about: UX Design
 - 📫 How to reach me: michaelgroverdesign@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm related to Leonard Nimoy 🖖
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=michael-grover)
